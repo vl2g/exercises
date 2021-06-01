@@ -1,11 +1,10 @@
 # exercises
 
-Task 1: Python programming tutorial links and some exercise
-
-
-
-
-Exercise 1.1: 
+Task 1: LaTex, html, and Website, github.
+Exercise 1.1: Create your own website in github.io.
+Exercise 1.2: Prepare resume in LaTex.
+Exercise 1.3: Learn github push/pull/commit etc. Create a code repo from
+your previous work. 
 
 
 

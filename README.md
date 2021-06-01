@@ -1,6 +1,6 @@
 # exercises
 
-Task 1: LaTex, html, and Website, github.
+Task 1: Learning LaTex, html, Website, and github.
 
 Exercise 1.1: Create your own website in github.io.
 
